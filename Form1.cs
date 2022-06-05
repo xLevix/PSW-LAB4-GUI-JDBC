@@ -20,10 +20,10 @@ namespace Zadanie_1
             login_approve_user.Visible = false;
             tabs.Visible = false;
 
-            server = "mysql.mikr.us";
-            database = "db_j166";
-            uid = "j166";
-            password = "DBF4_5b4db9";
+            server = "";
+            database = "";
+            uid = "";
+            password = "";
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
             database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";";
         }
